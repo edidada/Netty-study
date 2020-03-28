@@ -5,7 +5,7 @@
 .project
 .settings  
 .myeclipse    
- ##filter databfile¡¢sln file##
+ ##filter databfileï¿½ï¿½sln file##
 *.mdb  
 *.ldb  
 *.sln    
@@ -37,4 +37,7 @@
 .Trashes  
 Icon?  
 ehthumbs.db  
-Thumbs.db  
+Thumbs.db
+*/.idea/*
+.idea/*
+*.iml
